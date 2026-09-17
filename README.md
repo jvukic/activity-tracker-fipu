@@ -4,7 +4,7 @@
 * **Josip Vukić** - Samostalni rad
 
 ### Opće informacije
-* **Fakultet:** [Fakultet informatike u Puli](https://unipu.hr)
+* **Fakultet:** [Tehnički fakultet u Puli](https://unipu.hr)
 * **Kolegij:** [Programsko inženjerstvo](https://unipu.hr)
 * **Mentor:** [doc. dr. sc. Nikola Tanković](https://unipu.hr)
 
